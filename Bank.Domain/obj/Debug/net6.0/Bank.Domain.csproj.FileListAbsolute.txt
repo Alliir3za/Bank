@@ -1,0 +1,14 @@
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.deps.json
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.runtimeconfig.json
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.dll
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\bin\Debug\net6.0\Bank.Domain.pdb
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.AssemblyReference.cache
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfoInputs.cache
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfo.cs
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.dll
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\refint\Bank.Domain.dll
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.pdb
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\Bank.Domain.genruntimeconfig.cache
+C:\Users\al.karimi\source\repos\Bank\Bank.Domain\obj\Debug\net6.0\ref\Bank.Domain.dll
